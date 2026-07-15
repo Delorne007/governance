@@ -12,4 +12,17 @@ Genesis Directives define the strategic governance of Aura-Nova Tech Studio.
 | GD-003 | HELIX Core Architecture | Planned |
 | GD-004 | HELIX Cyber Platform | Planned |
 
+## Repository Structure
+
+- [Constitution](constitution/)
+- [Genesis Directives](directives/)
+- [Architecture](architecture/)
+- [Engineering Standards](standards/)
+- [Specifications](specifications/)
+- [Procedures](procedures/)
+- [Playbooks](playbooks/)
+- [Templates](templates/)
+- [Roadmaps](roadmaps/)
+- [Decisions](decisions/)
+- 
 All directives are version-controlled and maintained within this repository.
